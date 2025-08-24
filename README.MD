@@ -6,8 +6,7 @@ My project is Etch-Sketch Where you can draw something cool using the black, gra
 
 It was built using 
 
--HTML
--CSS
--Java Script
+HTML, CSS, Java Script
 
 You can view my project Live here 
+https://gmarav05.github.io/Hack2Impact_25/
